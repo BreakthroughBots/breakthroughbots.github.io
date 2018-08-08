@@ -30,7 +30,7 @@ plugins:
 # I chose the Swiss theme after a few minutes of googling; this will likely be replaced
 # in the future once content is more developed
 remote_theme: andrewbanchich/forty-jekyll-theme
-tiles-source: pages
+tiles-source: posts
 tiles-count: 6
 
 # Exclude from processing.
