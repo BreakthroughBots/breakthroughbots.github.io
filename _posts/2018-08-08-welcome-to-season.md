@@ -26,4 +26,3 @@ the missions much easier.
 
 3. The theme is Into Orbit! We will be exploring all sorts of outer space themed adventures. Check out the [robot resources] page.
 
-Please
