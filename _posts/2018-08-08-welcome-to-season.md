@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Season Opener"
 date:   2018-08-08
 categories: bootcamp
