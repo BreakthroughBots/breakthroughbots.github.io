@@ -254,6 +254,10 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
+  jekyll-gist
+  jekyll-paginate
+  jekyll-sitemap
+  jemoji
   minimal-mistakes-jekyll
 
 BUNDLED WITH
