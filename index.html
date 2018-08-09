@@ -1,4 +1,32 @@
 ---
-layout: home
+layout: splash
 author_profile: false
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/robotclose.jpg
+
+
+feature_row:
+  - image_path: /assets/images/roadahead.jpg
+    title: "Calendar"
+    excerpt: "Follow the calendar for important dates and upcoming events."
+    url: "/calendar/"
+    btn_label: "View Calendar"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/intoorbit.png
+    title: "Into Orbit!"
+    excerpt: "Rules & details on the robot game, project and core values for the Into Orbit season."
+    url: "/season/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/kidsworking.jpg
+    title: "Recent Updates"
+    excerpt: "What is going on with the team? Read about our progress."
+    url: "/blog/"
+    btn_label: "Read Updates"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row %}
