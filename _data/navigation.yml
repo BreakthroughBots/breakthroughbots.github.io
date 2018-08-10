@@ -7,4 +7,7 @@ main:
     url: /blog
   - title: "Programming"
     url: /programming
+  - title: "Volunteer"
+    url: /volunteer
+    
 
