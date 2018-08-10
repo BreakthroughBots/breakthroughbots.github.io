@@ -67,7 +67,8 @@ Coopertition through our Core Values:
 * **Teamwork**: We are stronger when we work together.
 * **Fun**: We enjoy and celebrate what we do!
 
-Look for us to run through Core Values activities throughout the season.
+We will run through plenty of [Core Values activities](http://flltutorials.com/CoreValues.html) throughout the season - take a look at the list and
+suggest your pick.
 
 ## Robot Game
 
@@ -91,6 +92,11 @@ on each image to read the detailed description. Read each
 challenge carefully - every word is important. [PDF](https://drive.google.com/file/d/1YyhU-4Vw9tYZhrOjgeUdX-nuMqZNM9SP/view?usp=sharing)
 
 {% include gallery id="challenges" %}
+
+### Mission Strategy
+
+We'll need to think through which missions to solve and in what order. The [FLL Tutorials sketch planner](http://flltutorials.com/Resources/2018/drawplan/index.html) is
+a useful tool to develop the plan.
 
 ### Programming Language & Robot Design
 
