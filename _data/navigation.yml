@@ -1,8 +1,8 @@
 main:
   - title: "Into Orbit!"
     url: /season
-  - title: "Calendar"
-    url: /calendar
+  - title: "Communication"
+    url: /communication
   - title: "Blog"
     url: /blog
   - title: "Programming"
