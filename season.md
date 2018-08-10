@@ -96,7 +96,7 @@ challenge carefully - every word is important. [PDF](https://drive.google.com/fi
 ### Mission Strategy
 
 We'll need to think through which missions to solve and in what order. The [FLL Tutorials sketch planner](http://flltutorials.com/Resources/2018/drawplan/index.html) is
-a useful tool to develop the plan.
+a useful tool to develop the plan. Read the [guide to developing a mission strategy](http://flltutorials.com/translations/en-us/RobotGame/MissionStrategy.pdf).
 
 ### Programming Language & Robot Design
 
@@ -104,7 +104,7 @@ This year, we are enrolled in a pilot project to try languages other than Mindst
 Mindstorms (which is what we used last year) or MakeCode (a new web-based language that was released May 2018). See the [Programming](/programming)
 page for more info about how and whether to choose MakeCode.
 
-Regardless of language chosen, teams should complete the new desing doc. The [Illinois pilot instructions](https://www.firstillinoisrobotics.org/fll/teams/team-information-for-into-orbit-season.html) recommend:
+Regardless of language chosen, teams should complete the new design doc. The [Illinois pilot instructions](https://www.firstillinoisrobotics.org/fll/teams/team-information-for-into-orbit-season.html) recommend:
 
 > All teams should be prepared to describe their programs to Judges who may not be familiar with the
 > programming language the team used.  Teams are encouraged to use the new Robot Design Summary worksheet
