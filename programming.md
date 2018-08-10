@@ -1,8 +1,6 @@
 ---
 layout: single
-title:  "We are in the Make Code pilot!"
-date:   2018-08-08
-categories: bootcamp robotics programming
+title:  "MakeCode Pilot"
 ---
 
 In all previous years, First Lego League has required that missions be programmed only using
@@ -37,5 +35,3 @@ Open Roberta was way too flaky to use in production, and Python is probably too 
 we are working with (without specialized training). Perhaps in future years we may introduce Python.
 
 For this season, we are going to try out the MakeCode pilot and see how it turns out.
-
-[citation to the make code pilot materials]

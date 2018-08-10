@@ -67,6 +67,8 @@ Coopertition through our Core Values:
 * **Teamwork**: We are stronger when we work together.
 * **Fun**: We enjoy and celebrate what we do!
 
+Look for us to run through Core Values activities throughout the season.
+
 ## Robot Game
 
 ### Intro Video
