@@ -34,3 +34,6 @@ The FLL Tutorials website is created by the Seshan Brothers, also
 the authors of EV3Lessons.com and a phenomenal resource. Check
 out the [Coach's Corner](http://flltutorials.com/CoachCorner.html) and read about how to teach programming, project, and core values as well as sample exercises, organization techniques, etc.
 
+### Techbrick Resources
+
+More resources are available at the [Techbrick Into Orbit Resources](https://techbrick.com/fll-resources/fll2018) site.
