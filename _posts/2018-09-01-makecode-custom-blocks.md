@@ -98,3 +98,81 @@ this file briefly and then show you how to add your own custom
 block.
 
 The file defines a few custom blocks already, called "foo" and "fib".
+You can delete the whole file and replace it with this text:
+
+{% highlight javascript %}
+//% color="green" block="Custom Blocks"
+namespace custom {
+    //% blockId=move_cm
+    //% block="move|cm %v"
+    export function move_cm(distance_cm: number): void {
+        motors.largeBC.steer(distance_cm * 20.5, 50)
+    }
+}
+{% endhighlight %}
+
+Let's explain what's going on here:
+
+1. First, we define the custom namespace. This means that all of our
+new blocks will live in a category called "Custom Blocks" that
+carries a green color. Note that we use a special comment tag ```//%```
+to tell the MakeCode engine about our new block.
+
+{% highlight javascript %}
+//% color="green" block="Custom Blocks"
+namespace custom {
+{% endhighlight %}
+
+2. Next, we define the actual block using special comments. This tells
+MakeCode to expect a block that we call "move_cm". The user will see
+the word "move" and then the value of a single parameter, "cm".
+
+{% highlight javascript %}
+    //% blockId=move_cm
+    //% block="move|cm %v"
+{% endhighlight %}
+
+3. Third, we define the function itself. This is like the setup screen
+of the MyBlock in EV3. It says that the function is named "move_cm"
+and takes a single parameter called "distance_cm".
+
+{% highlight javascript %}
+    export function move_cm(distance_cm: number): void {
+{% endhighlight %}
+
+4. Finally, the actual contents of the function tell the block what to.
+In this case, we pass in the distance_cm, multiple it by 20.5, and
+use it to direct motors B+C to move forward at 50% power.
+
+{% highlight javascript %}
+        motors.largeBC.steer(distance_cm * 20.5, 50)
+{% endhighlight %}
+
+Put it all together again:
+
+{% highlight javascript %}
+//% color="green" block="Custom Blocks"
+namespace custom {
+    //% blockId=move_cm
+    //% block="move|cm %v"
+    export function move_cm(distance_cm: number): void {
+        motors.largeBC.steer(distance_cm * 20.5, 50)
+    }
+}
+{% endhighlight %}
+
+After saving, we click on the ```main.blocks``` link on the
+sidebar:
+
+![main.blocks](/assets/images/main.blocks.png)
+
+That shows us the Custom Blocks sidebar and our new block is there!
+
+![new_move_cm_block](/assets/images/new_move_cm_block.png)
+
+We can drag it into our program to use it just as any other block:
+
+![using_move_cm_block](/assets/images/using_move_cm_block.png)
+
+Finally! Hopefully that was helpful in learning how to create
+the equivalent of a MyBlock in MakeCode.
