@@ -9,13 +9,13 @@ and then proceed to sign up.
 
 Please sign up for the coaching slots you plan to attend here:
 
-[Sign up for coaching slot](https://www.signupgenius.com/go/30e0e4ea5a82ba2fe3-breakthrough){: .btn .btn--primary}
+[Sign up to coach in the spring](https://www.signupgenius.com/go/30e0e4ea5a82ba2fe3-breakthrough1){: .btn .btn--primary}
 
 Coaches should read through each of these docs:
 
 ### Challenge letter:
 
-Coach's should read through all the contents of the [Into Orbit Season page](/season), but additionally read through the full challenge guide below:
+You can read through the challenge letter from last year:
 
 <iframe src="https://drive.google.com/file/d/1TgHDFiDlEt3FccUZgGuog8d7NsSdXra8/preview" width="100%" height="700"></iframe>
 
@@ -37,3 +37,4 @@ out the [Coach's Corner](http://flltutorials.com/CoachCorner.html) and read abou
 ### Techbrick Resources
 
 More resources are available at the [Techbrick Into Orbit Resources](https://techbrick.com/fll-resources/fll2018) site.
+
