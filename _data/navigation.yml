@@ -1,12 +1,10 @@
 main:
-  - title: "Into Orbit!"
-    url: /season
-  - title: "Communication"
-    url: /communication
+  - title: "2019-20 Season"
+    url: /season2019
+  - title: "2018-19 Season"
+    url: /season2018
   - title: "Blog"
     url: /blog
-  - title: "Programming"
-    url: /programming
   - title: "Volunteer"
     url: /volunteer
     
