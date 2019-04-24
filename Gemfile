@@ -21,6 +21,7 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jemoji"
   gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-include-cache"
 end
 
 # Uncomment if we ever use this on Windows
