@@ -1,10 +1,8 @@
 main:
-  - title: "2019-20 Season"
+  - title: "City Shaper Resources"
     url: /season2019
   - title: "2018-19 Season"
     url: /season2018
-  - title: "Blog"
-    url: /blog
   - title: "Volunteer"
     url: /volunteer
     
