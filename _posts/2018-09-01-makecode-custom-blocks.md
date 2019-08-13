@@ -26,8 +26,6 @@ and then re-use the block every time you want to move the robot.
 
 ![myblock-code](/assets/images/myblock-2.png)
 
-{% include gallery id="myblock" %}
-
 The EV3 code is doing two things:
 
 1. A Math block multiplies the distance (in CM) by a fixed,
