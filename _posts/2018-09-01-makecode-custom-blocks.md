@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Custom Blocks (MyBlocks) in MakeCode"
-
 ---
 
 Our team is potentially participating in the pilot to use
@@ -25,8 +24,6 @@ centimeters to rotations one time, enter it into the Myblock,
 and then re-use the block every time you want to move the robot.
 
 ![myblock-code](/assets/images/myblock-2.png)
-
-{% include gallery id="myblock" %}
 
 The EV3 code is doing two things:
 
