@@ -5,24 +5,30 @@ date:   2019-08-12
 categories: bootcamp
 ---
 
-Welcome back! This week is our Bootcamp week, which kicks off the 2019 FLL Season.
-Here's the agenda for the week:
+Every summer, Breakthrough hosts a 4-day Bootcamp to kick off the season. This was our best
+first day kickoff yet! We had eight hardy souls come out in the middle of summer
+to begin tackling the twin challenges of the Robot Game and the Innovation Project.
+Unfortunately, our challenge set has not yet arrived, but I think that will end up being
+a blessing as it gives us more time to digest the rules and focus on preparation so that
+the team will use their time more effectively when we get down to the business of actually
+building & programming.
 
-* Monday
-* Tuesday
-* Wednesday
-* Thursday
+First, we watched the kickoff video:
 
-Remember the three essential elements of an FLL season - core values, robot game, and
-innovation project. This week we will make progress on all three. By the end of the
-week, we will:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y_mTQZQ8Kzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Set up our team contract for how we behave
-* Create a schedule of practices for the season
-* Read and understand the rules of the robot game
-* Brainstorm ideas for the innovation project
+Then, the kids split into groups to go through each mission and think about how it might
+be accomplished. We used these awesome worksheets provided by the Seshan brothers (thanks!).
 
-Our challenge set has not yet arrived, so we cannot yet begin actually practicing
-with the robots. We will set up a later "build day" to create the mission models
-before season kickoff. But we can make progress on learning the activities and models
-so we are ready when it comes.
+![mission evaluation worksheet](/assets/images/worksheet-mission-eval.png)
+
+Already, I can tell that the kids AND coaches have a better understanding of all the missions
+than any of the teams did last season. It pays to spend some time learning!
+
+### Homework
+
+Each team member should read through the *full* contents of the packet below, which covers the
+rules of the robot game.
+
+<iframe src="https://drive.google.com/file/d/1t729_e9u4QJEiYSEm0ahl-zZfd1cRh6X/preview" width="560" height="700"></iframe>
+
