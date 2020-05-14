@@ -10,7 +10,7 @@ For our Spring virtual class we will be using
 Join The Zoom
 ===
 
-Please use Zoom to join our class virtual meeting. Class starts at 6:30pm on Thursdays.
+Please use Zoom to join our class virtual meeting. Class starts at 7:00pm on Thursdays.
 
 [Join Zoom Meeting](https://us02web.zoom.us/j/84839409749?pwd=ckNSL2cyZ2ErRTlYSzFkSFBkRmFDUT09){: .btn .btn--primary}{:target="_blank"}
 
