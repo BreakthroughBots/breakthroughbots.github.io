@@ -4,8 +4,7 @@ layout: single
 permalink: /class
 ---
 
-For our Spring virtual class we will be using 
-
+We had a great class tonight.
 
 Join The Zoom
 ===
