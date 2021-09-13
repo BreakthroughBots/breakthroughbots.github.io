@@ -1,9 +1,9 @@
 main:
-  - title: "Virtual Class"
-    url: /class
-  - title: "2018-19 Season"
-    url: /season2018
+  - title: "Cargo Connect 2021 Season"
+    url: /2021season
+  - title: "About"
+    url: /about
   - title: "Volunteer"
-    url: /volunteer
-    
-
+    url: /volunteer  
+  - title: "Parents"
+    url: /parents
