@@ -1,5 +1,6 @@
 ---
 title: Team
+layout: single
 permalink: /about/
 ---
 

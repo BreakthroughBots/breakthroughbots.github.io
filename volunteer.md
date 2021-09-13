@@ -7,26 +7,16 @@ We rely on volunteers to make this happen! If you haven't volunteered with Break
 before, no problem - please fill out this [volunteer application](http://www.breakthrough.org/get-involved/volunteer/apply/form-1/)
 and then proceed to sign up.
 
-Please sign up for the coaching slots you plan to attend here:
-
-[Sign up to coach in the spring](https://www.signupgenius.com/go/30e0e4ea5a82ba2fe3-breakthrough1){: .btn .btn--primary}
-
-Coaches should read through each of these docs:
+Please also email luke@breakthroughbots.org directly to learn more.
 
 ### Challenge letter:
 
-You can read through the challenge letter from last year:
+You can read through the challenge letter for Cargo Connects 2021:
 
-<iframe src="https://drive.google.com/file/d/1TgHDFiDlEt3FccUZgGuog8d7NsSdXra8/preview" width="100%" height="700"></iframe>
+<iframe src="https://firstinspiresst01.blob.core.windows.net/first-forward/fll-challenge/fll-challenge-cargo-connect-overview.pdf" width="100%" height="700"></iframe>
 
-### Rubrics:
-
-These are the exact rubrics that the judges will use to evaluate
-our team in competition. While students should obviously read
-these as well, the coaches need to really understand the rubrics
-so that we can best guide students to focus on the right areas.
-
-<iframe src="http://www.firstlegoleague.org/sites/default/files/into-orbit/first-lego-league-rubrics.pdf" width="100%" height="700"></iframe>
+Full library of resources for this
+year's challenge is on the [FLL Website](https://www.firstinspires.org/resource-library/fll/challenge/challenge-and-resources).
 
 ### FLL Tutorials Coach's Corner:
 
