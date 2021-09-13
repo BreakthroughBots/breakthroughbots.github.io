@@ -5,7 +5,7 @@ date: 2021-09-13
 categories: seasonkickoff fll
 ---
 
-![kickoff](/assets/images/season2021/kickoff.jpg)
+![kickoff](/assets/images/season2021/spike-building.jpg)
 
 On Tuesday, our Breakthrough Robotics team will pick up for another season, after having
 taken last year off.
