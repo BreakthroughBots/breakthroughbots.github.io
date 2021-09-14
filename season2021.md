@@ -51,8 +51,15 @@ ways, to transport products from place
 to place.
 
 
-![/assets/images/season2021/innovation-project.png]
+!(/assets/images/season2021/innovation-project.png)
 
 
-![/assets/images/season2021/innovation-project-cartoon.png]
+!(/assets/images/season2021/innovation-project-cartoon.png)
 
+
+## Building Models
+
+Instructions for models are found within [this page](https://www.firstlegoleague.org/season?__hstc=212927755.f22569d0da41f42737815252a3538432.1631657420924.1631657420924.1631657420924.1&__hssc=212927755.1.1631657420924&__hsfp=1024124398#resources)
+
+Also check out these instructions:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iNrKXl99iHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
