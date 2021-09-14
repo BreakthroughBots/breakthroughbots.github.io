@@ -51,10 +51,10 @@ ways, to transport products from place
 to place.
 
 
-!(/assets/images/season2021/innovation-project.png)
+![](/assets/images/season2021/innovation-project.png)
 
 
-!(/assets/images/season2021/innovation-project-cartoon.png)
+![](/assets/images/season2021/innovation-project-cartoon.png)
 
 
 ## Building Models
