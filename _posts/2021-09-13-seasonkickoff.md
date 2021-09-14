@@ -47,7 +47,13 @@ continue work towards their goals.
 | 8:15pm   | Clean up |
 | 8:30pm   | Leave |
 
-You can subscribe to a Google Calendar with meeting details.
+## Season kickoff
+
+Here's a teaser kickoff from FLL for the season:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eJSDHC_9Sxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Check out [our 2021 season details](/season2021) for more info.
 
 I look forward to seeing you all there!
 Luke
