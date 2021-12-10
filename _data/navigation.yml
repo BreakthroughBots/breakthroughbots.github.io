@@ -7,3 +7,6 @@ main:
     url: /volunteer  
   - title: "Parents"
     url: /parents
+  - title: "Sign Consent Form"
+    url: /consent
+    
