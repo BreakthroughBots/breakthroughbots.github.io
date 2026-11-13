@@ -51,6 +51,10 @@ challenges:
 
 ---
 
+**Archived page.** This page is kept for history and is no longer updated. To get involved with Breakthrough today, visit [breakthrough.org](https://www.breakthrough.org/).
+{: .notice--info}
+
+
 The theme for the 2018-19 season was Into Orbit - all activities and
 project revolved around humans in outer space (especially for long term space travel).
 

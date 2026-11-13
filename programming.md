@@ -3,6 +3,10 @@ layout: single
 title:  "MakeCode Pilot"
 ---
 
+**Archived page.** This page is kept for history and is no longer updated. To get involved with Breakthrough today, visit [breakthrough.org](https://www.breakthrough.org/).
+{: .notice--info}
+
+
 In all previous years, First Lego League has required that missions be programmed only using
 the official EV3 Mindstorms app. This is good because it has created a level playing field among
 teams and it ensures that teams don't get hung up on idiosyncracies (Ev3 is guaranteed to work across
