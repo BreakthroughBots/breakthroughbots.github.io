@@ -13,6 +13,10 @@ header:
 
 ---
 
+**Archived page.** This page is kept for history and is no longer updated. To get involved with Breakthrough today, visit [breakthrough.org](https://www.breakthrough.org/).
+{: .notice--info}
+
+
 ## Robot Game
 
 ### Challenges

@@ -1,12 +1,7 @@
 main:
-  - title: "Cargo Connect 2021 Season"
-    url: /season2021
-  - title: "About"
-    url: /about
-  - title: "Volunteer"
-    url: /volunteer  
-  - title: "Parents"
-    url: /parents
-  - title: "Sign Consent Form"
-    url: /consent
-    
+  - title: "Photos"
+    url: /#photos
+  - title: "Blog"
+    url: /#blog
+  - title: "Visit Breakthrough"
+    url: https://www.breakthrough.org/
